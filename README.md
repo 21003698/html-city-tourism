@@ -2,7 +2,7 @@
 ### Ex-1
 #### Creating a html file to display the contents as seen in the following image.
 #### Program:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -75,7 +75,7 @@
 </table>
 </body>
 </html>
-
+```
 #### Output
 ![Screenshot 2024-07-02 134519](https://github.com/ManojTella/html-city-tourism/assets/94883876/48b88671-5277-4e5d-b4f7-4952d2fcf276)
 #### Result:
@@ -86,7 +86,7 @@ Thus,Creating a html file to display the content in the above picture was execut
 #### Aim: To design a website for a College.
 #### Program:
 ##### Index.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,9 +116,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Academics.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -149,9 +149,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Admission.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -182,9 +182,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Gallery.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -219,9 +219,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Courses.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -260,9 +260,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### ComputerScience.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -293,9 +293,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Mathematics.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -339,9 +339,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### English.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -385,9 +385,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Social.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -428,9 +428,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </main>
 </head>
 </html>
-
+```
 ##### Economics.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -474,9 +474,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Management.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -519,9 +519,9 @@ Thus,Creating a html file to display the content in the above picture was execut
     </footer>
 </body>
 </html>
-
+```
 ##### Styles.css
-
+```
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -570,7 +570,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
-
+```
 ### Output:
 ![Screenshot 2024-07-02 133856](https://github.com/ManojTella/html-city-tourism/assets/94883876/f9081a4f-6979-4263-957f-fc161cae6b6c)
 ![Screenshot 2024-07-02 133916](https://github.com/ManojTella/html-city-tourism/assets/94883876/18648474-3cf4-4c9e-b0e3-5a2444e1b70f)
